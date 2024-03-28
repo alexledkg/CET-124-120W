@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: D:\GitHub\CET-124-120W\CET-124-120W.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=21.65
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=31.50
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance_2|Scope=Board|Minimum=10.00

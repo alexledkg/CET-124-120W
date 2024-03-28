@@ -1,0 +1,15 @@
+Source PCB Design CET-124-120W_art.PcbDoc contains embedded board array. It is recomended to generate individual BOM for each embedded board PCB design.
+
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [CET-124-120W.PrjPcb]
+   Generated File[CET-124-120W_art.GM6]
+   Generated File[CET-124-120W_art.RUL]
+   Generated File[CET-124-120W_art.EXTREP]
+   Generated File[CET-124-120W_art.REP]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 9:48:58 On 28.03.2024
