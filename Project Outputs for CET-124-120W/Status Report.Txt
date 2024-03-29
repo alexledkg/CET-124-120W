@@ -3,7 +3,7 @@ Source PCB Design CET-124-120W_art.PcbDoc contains embedded board array. It is r
 Output: Gerber Files
 Type  : Gerber
 From  : Variant [[No Variations]] of Project [CET-124-120W.PrjPcb]
-   Generated File[CET-124-120W_art.GM6]
+   Generated File[CET-124-120W_art.GM4]
    Generated File[CET-124-120W_art.RUL]
    Generated File[CET-124-120W_art.EXTREP]
    Generated File[CET-124-120W_art.REP]
@@ -12,4 +12,4 @@ From  : Variant [[No Variations]] of Project [CET-124-120W.PrjPcb]
 Files Generated   : 4
 Documents Printed : 0
 
-Finished Output Generation At 9:48:58 On 28.03.2024
+Finished Output Generation At 8:38:38 On 29.03.2024

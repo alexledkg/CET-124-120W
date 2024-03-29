@@ -2,10 +2,10 @@
 FileName = CET-124-120W_art.GBR
 AutoAperture = True
 *************************************************************
-Generating : Mechanical 6
-      File : CET-124-120W_art.GM6
+Generating : Mechanical 4
+      File : CET-124-120W_art.GM4
 
-    Adding Layer      : Mechanical 6
+    Adding Layer      : Mechanical 4
 
 
 Used DCodes :
